@@ -44,9 +44,10 @@ body{
     padding-left: 24px;
     color: hsl(30, 10%, 34%);
 }
-.preparation-time h3{
+.preparation-time h2{
     color: hsl(332, 51%, 32%);
     margin-bottom: 15px;
+    font-size: 20px;
 }
 .preparation-list li{
     margin-bottom: 10px;
